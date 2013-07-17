@@ -20,7 +20,7 @@ Tools
 * [Web Sequence Diagrams](http://www.websequencediagrams.com/)
 * [Transfer Money](http://www.websequencediagrams.com/?lz=dGl0bGUgVHJhbnNmZXJNb25leQoKVXNlci0-K0NvbnRleHQ6IGNyZWF0ZShzb3VyY2UsIHNpbmspAB4HABsJcGVyZm9ybV90AEQHKGFtb3VudCkKCmFsdCBjAEUGCiAgAE4HLT5TAEkFOiAAIBEgIAAVBgAZCndpdGhkcmF3AA8UaW5rOiByZWNlaXZlAGsJZW5kCgoAYggtPlVzZXI6IGRvbmUKZGVzdHJveQCAfwg&s=rose) shows how to capture a usecase in a sequence diagram.
 
-DCI
+Domain, Context and Interaction (DCI aka Lean Architecture)
 ====
 
 [DCI Vision](http://www.artima.com/articles/dci_vision.html)
